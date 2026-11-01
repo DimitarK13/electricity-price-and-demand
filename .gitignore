@@ -1,1 +1,17 @@
-data
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/*
+data/processed/*
+
+# Exceptions for folder documentation
+!data/raw/.gitkeep
+!data/processed/.gitkeep
