@@ -32,14 +32,17 @@ To obtain the data for this project, run the data_loading.py script found in scr
 
 ## Project Structure
 
-├── data/ # Raw and processed datasets
-├── notebooks/ # Data understanding, cleaning and EDA
-├── reports/ # Project documentation and analytical report
+```text
+electricity-demand-pricing/
+├── data/           # Raw and processed datasets
+├── notebooks/      # Data understanding, cleaning and EDA
+├── reports/        # Project documentation and analytical report
 ├── visualizations/ # Exported visualizations
-├── scripts/ # Reusable Python modules
+├── scripts/        # Reusable Python modules
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Key Findings
 
