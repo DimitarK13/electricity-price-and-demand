@@ -1,0 +1,30 @@
+# Electricity Demand and Pricing
+
+## 1. Project Overview
+
+This project explores electricity demand and pricing in Victoria, Australia using the [Daily Electricity Price and Demand Data](https://www.kaggle.com/datasets/aramacus/electricity-demand-in-victoria-australia) dataset.
+
+The analysis aims to investigate how electricity demand and prices vary over time and how they relate to external factors such as temperature, seasonality, weekends, and public holidays. It also explores patterns in electricity pricing, including periods of unusually high demand and negative prices.
+
+## 2. Problem Statement
+
+Understanding the relationship between electricity demand, weather, calendar patterns, and wholesale prices is important for identifying trends and unusual market behavior.
+
+## 3. Objectives
+
+- Identify seasonal patterns in electricity demand and determine how temperature influences consumption.
+- Investigate the frequency and conditions under which negative electricity prices occur, exploring potential contributing factors.
+- Analyze the relationship between electricity demand and wholesale electricity prices.
+- Compare electricity demand and prices between working days, weekends, and public holidays.
+
+## 4. Research Questions
+
+- How does electricity demand change with temperature and season?
+- Are high-demand days associated with higher prices?
+- How do weeekends and holidays differ from working days?
+- How often do negative prices occur, and under what conditions?
+
+## 5. Hypotheses
+
+- Electricity demand increases during periods of extreme temperatures, both hot and cold.
+- Electricity demand is generally lower during weekends than working days.
