@@ -8,6 +8,8 @@ This project explores electricity demand and pricing in Victoria, Australia. The
 
 To obtain the data for this project, run the data_loading.py script found in scripts/. The data will get downloaded in data/raw/.
 
+The raw dataset is used only in '01_initial_eda.ipynb' and '02_data_preparation.ipynb' files, both found in notebooks/. '02_data_preparation.ipynb' cleans the data and creates a new dataset.csv file, which gets saved in data/processed/dataset.csv.
+
 ## Dataset
 
 - Source: Kaggle
