@@ -28,3 +28,19 @@ Understanding the relationship between electricity demand, weather, calendar pat
 
 - Electricity demand increases during periods of extreme temperatures, both hot and cold.
 - Electricity demand is generally lower during weekends than working days.
+
+## 6. Findings:
+
+### How does electricity demand change with temperature and season?
+
+#### Approach
+
+- Investigated the relationship between temperature and demand.
+- Compared average demand across seasons.
+- Examined the temperature and demand relationship, between different seasons.
+
+#### Key findings:
+
+- During lower temperatures there is more electricity demand on average. But, the highest demand occurs during higher temperatures.
+- On average, the winter season (June, July and August) has the highest demand.
+- Summer is the season with the most variability, whereas winter has the lowest variability.
