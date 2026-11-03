@@ -44,3 +44,5 @@ Understanding the relationship between electricity demand, weather, calendar pat
 - During lower temperatures there is more electricity demand on average. But, the highest demand occurs during higher temperatures.
 - On average, the winter season (June, July and August) has the highest demand.
 - Summer is the season with the most variability, whereas winter has the lowest variability.
+
+![Temperature and Demand, Between Different Seasons](../visualizations/temperature-and-demand.png)
