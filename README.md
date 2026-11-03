@@ -48,4 +48,8 @@ electricity-demand-pricing/
 
 ## Key Findings
 
-TBD
+- During lower temperatures there is more electricity demand on average. But, the highest demand occurs during higher temperatures.
+- Summer is the season with the most variability, whereas winter has the lowest variability.
+- Higher demand tends to coincide with higher prices, but the relationship is not strong. (Pearson correlation of 0.23)
+- Demand is much higher on non-holidays, compared to holidays.
+- The total amount of days where negative prices occur is 191 - 9.19% of the dataset.
