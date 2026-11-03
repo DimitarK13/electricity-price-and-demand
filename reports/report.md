@@ -61,3 +61,19 @@ Understanding the relationship between electricity demand, weather, calendar pat
 - The result of the Pearson correlation is 0.23
 
 ![Demand and RRP](../visualizations/demand-rrp.png)
+
+### How do weekends and holidays differ from working days?
+
+#### Approach
+
+- The dataset doesn't provide a workday/weekend column. Instead I used the school days column for working days, and non school days for weekend.
+- Plotted school days and holidays against demand
+
+#### Key findings:
+
+- Demand is higher on school days, compared to weekends.
+- Demand is much higher on non-holidays, compared to holidays.
+
+The findings are aligned with original hypotheses.
+
+![Working Days vs Non-Working Days](../visualizations/demand-workdays.png)
