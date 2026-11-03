@@ -79,3 +79,21 @@ Findings align with original hypotheses.
 The findings are aligned with original hypotheses.
 
 ![Working Days vs Non-Working Days](../visualizations/demand-workdays.png)
+
+### How often do negative prices occur, and under what conditions?
+
+#### Approach
+
+- Calculated the total amount of days where negative prices occur.
+- Calculated the percentage of days where negative prices occur.
+- Plotted the mean of the fraction in days where negative prices occur by seasons.
+- Plotted the mean of the fraction in days where negative prices occur weekdays.
+
+#### Key findings:
+
+- The total amount of days where negative prices occur is 191 - 9.19% of the dataset.
+- The average fraction of time with negative electricity prices is highest in Spring and lowest in Summer.
+- Negative electricity prices tend to occur for a larger fraction of the day on weekends than on working days.
+
+![Fraction at Negative RRP by Season](../visualizations/negative-rrp-season.png)
+![Fraction at Negative RRP by Weekday](../visualizations/negative-rrp-workday.png)
