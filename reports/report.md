@@ -47,3 +47,17 @@ Understanding the relationship between electricity demand, weather, calendar pat
 - Summer is the season with the most variability, whereas winter has the lowest variability.
 
 ![Temperature and Demand, Between Different Seasons](../visualizations/temperature-and-demand.png)
+
+### Are high-demand days associated with higher prices?
+
+#### Approach
+
+- Plotted demand against RRP (regional reference price)
+- Printed correlation between the two variables
+
+#### Key findings:
+
+- Higher demand tends to coincide with higher prices, but the relationship is not strong.
+- The result of the Pearson correlation is 0.23
+
+![Demand and RRP](../visualizations/demand-rrp.png)
