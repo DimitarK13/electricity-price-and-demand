@@ -28,6 +28,7 @@ Understanding the relationship between electricity demand, weather, calendar pat
 
 - Electricity demand increases during periods of extreme temperatures, both hot and cold.
 - Electricity demand is generally lower during weekends than working days.
+- High demand days are NOT associated with higher prices.
 
 ## 6. Findings:
 
